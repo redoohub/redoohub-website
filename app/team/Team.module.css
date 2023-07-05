@@ -1,0 +1,29 @@
+.wrapper {
+    margin: 0;
+    height: min-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1.5rem;
+    background: linear-gradient(-45deg, #3e5151, #786d57, #334d50, #292929);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.backButton {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
