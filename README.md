@@ -1,6 +1,6 @@
 # REDOO hub Official Website
 
-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
 - Any changes made into this repo will reflect back on our website: https://redoohub.com
 - Using [Vercel](https://vercel.com/) as a hosting platform
 
