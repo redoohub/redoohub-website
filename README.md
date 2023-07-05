@@ -7,6 +7,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+npm install --force // make sure you include the --force keyword as there are some version-conflicing dependencies
 npm run dev
 # or
 yarn dev
